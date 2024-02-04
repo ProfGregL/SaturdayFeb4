@@ -1,5 +1,6 @@
 # SaturdayFeb4
-KAttis problems and slide deck from session
+KAttis problems, Problem Solutions and slide deck from session
+
 
 
 Attendees:
